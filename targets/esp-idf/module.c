@@ -21,6 +21,7 @@
 #include <sys/stat.h>
 #include <unistd.h>
 
+#include "jerryscript-core.h"
 #include "jerryscript-port.h"
 
 /**
